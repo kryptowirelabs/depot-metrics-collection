@@ -1,5 +1,5 @@
 
-###Metric Collection and Visualization
+### Metric Collection and Visualization
 
 **Metric collection** is vital for 5G network slicing as it enables real-time monitoring, optimization, and management of individual slices, ensuring that each meets its specific service-level agreements (SLAs) and quality of service (QoS) requirements. By collecting performance data such as latency, throughput, and resource utilization, operators can dynamically allocate resources, ensure slice isolation, and detect issues like bottlenecks. Metrics also support automation, allowing for dynamic scaling, proactive fault detection, and AI-driven optimizations, ultimately enhancing service reliability, efficiency, and user experience across various slices tailored for different applications like IoT, eMBB, and URLLC.
 
