@@ -127,5 +127,4 @@ The dropdown list includes other pods such as:
 These Grafana dashboards offer comprehensive insights into the performance and resource usage of the overall system within 5G Core setup. Monitoring key metrics like CPU, memory, and disk usage helps ensure that the infrastructure is functioning efficiently and provides the necessary performance data to optimize the system.
 
 By deploying Prometheus and Grafana in VMs, you can effectively monitor and visualize the performance of your OAI, srsRAN, and Aether installations. Prometheus collects metrics from various 5G core and RAN components, while Grafana provides real-time visualization and alerts to ensure your network is operating optimally.
-```
 
