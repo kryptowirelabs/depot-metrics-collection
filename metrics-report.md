@@ -111,12 +111,12 @@ By deploying Prometheus and Grafana in XCP-ng VMs, you can effectively monitor a
 ### Grafana Dashboards
 
 In the below screenshot, we see a Grafana dashboard giving an overview of the system's CPU, memory, and disk utilization for a specific cluster or node. This dashboard is useful for gaining a quick insight into overall system resource usage, including CPU, memory, and disk usage. It allows you to understand the load on your infrastructure.
-
+![Alt text](./images/dashboard.png)
 
 In the below screenshot, Grafana is displaying performance metrics for a specific Kubernetes pod, likely part of the OpenAirInterface (OAI) or srsRAN setup. The pod in question is `amf-644fc6f7f67-jrrqq` (AMF stands for Access and Mobility Management Function in 5G Core).
 ![Alt text](./images/amf.png)
 This dashboard shows metrics for another Kubernetes pod, specifically the `upf-0` pod, which is the User Plane Function (UPF) in 5G Core.
-![Alt text](./images/upf.png)
+![Alt text](./images/upf-0.png)
 This screenshot shows a pod selector feature where you can pick different pods within the OMEC namespace and view their performance metrics.
 ![Alt text](./images/drop.png)
 The dropdown list includes other pods such as:
